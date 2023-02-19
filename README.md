@@ -2,7 +2,7 @@
 
 Command line application that takes in information about employees on a software engineering team, then generate an HTML webpage that dispalys summaries for each person. Testing is key to make code maintainable, so unit testing foa all part of code and ensuring it passes each test. 
 
-##information!
+## information!
 
 I created this repo to allow myself to start a running employee list for my job. I can use the node.js file to add employees to the list and the HTML can be addded to a internal weblink to allow anyone working with me to view the file!
 
